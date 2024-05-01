@@ -1,0 +1,9 @@
+numpy
+mss
+Pillow
+termcolor
+pyserial
+keyboard
+opencv-python
+pywin32
+PyAutoGUI
